@@ -13,3 +13,11 @@ Exemplos de pedido:
 - “Use a ficha de aula aprovada para montar um roteiro de gravação. Temos uma câmera de celular e as duas fotos anexas.”
 
 Comece por uma aula que o professor conhece bem. Compare o original e a versão revisada, leia o roteiro em voz alta e registre as correções antes de ampliar para o curso inteiro.
+
+## Começar com um único pedido
+
+Anexe seu material em um espaço privado da IA e disponibilize a pasta completa da skill para que ela possa consultar os guias. Se o assistente aceitar apenas texto, cole as instruções e os guias relevantes na conversa.
+
+> Melhore esta apostila para a minha turma. Examine os anexos, pergunte o que falta sobre o público, a marca e meu jeito de ensinar, e me ajude a escolher o layout. Entregue a apostila pronta para o uso combinado e um roteiro que eu consiga gravar. No final, reúna as decisões que ainda dependem de mim.
+
+Se preferir delegar as escolhas visuais, diga “escolha a direção mais adequada”. Se quiser decidir, peça duas opções aplicadas ao mesmo trecho. A capacidade de gerar e conferir PDF ou arquivo editável depende da IA utilizada.

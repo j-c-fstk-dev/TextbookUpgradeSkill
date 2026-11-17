@@ -7,6 +7,10 @@ description: Reestruture livros didáticos, apostilas e materiais de cursos exis
 
 Identifique o público, a entrega solicitada e o material disponível. Adote o idioma do curso. Execute somente as etapas necessárias. Se o pedido for editar um capítulo ou roteirizar uma aula já definida, comece por ela. Quando o público for incerto, explicite a suposição e avance nas decisões reversíveis.
 
+Para um pedido amplo como “melhore este material”, assuma a produção até a entrega. Comece pela [entrevista e escolha de direção](references/briefing.md). Use as respostas já presentes nos anexos. Em pedidos pontuais, limite a entrevista às decisões que alteram aquela entrega.
+
+Para a apostila, aplique o [guia de direção visual e imagens](references/design.md) antes de diagramar. Para o curso, aplique o [guia de gravação](references/video.md). Antes de entregar qualquer peça, execute a [revisão e devolutiva](references/revisao.md). Guarde o briefing e as decisões junto ao projeto privado para retomadas.
+
 ## Diagnosticar
 
 Associe cada achado a uma página, seção, imagem ou minuto de gravação. Para cada problema que afete a aprendizagem, explique onde o aluno trava e proponha uma mudança concreta. Distinga uma correção editorial de uma dúvida técnica. Conserve termos, exemplos e relatos próprios do professor. Quando houver conflito entre fontes, registre ambas e formule a pergunta que resolveria o conflito.
