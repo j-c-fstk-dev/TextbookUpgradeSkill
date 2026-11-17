@@ -7,10 +7,13 @@ Devolva um resumo preenchido com o que já sabe. Faça uma rodada curta, agrupan
 | Decisão | Pergunta quando a resposta estiver faltando | Efeito no trabalho |
 |---|---|---|
 | Turma e objetivo | Quem vai usar, o que já sabe e o que precisa conseguir fazer sozinho? | Vocabulário, pré-requisitos e atividade |
-| Uso | O aluno vai imprimir, consultar no celular ou acompanhar uma aula? Precisa editar depois? | Formato, tamanho, espaço para escrever e arquivo editável |
+| Uso | O aluno vai imprimir, consultar no celular ou acompanhar uma aula? | Tamanho, orientação e espaço para escrever |
+| Arquivos de saída | Como você quer receber a apostila: PDF pronto para distribuir, Word editável ou os dois? Se pretende gravar aulas, quer também um roteiro separado? | Peças e formatos a produzir |
 | Identidade | Tem logo, cores, fontes, página de referência ou exemplo do que gosta? | Aplicação da marca e escolha entre direções visuais |
 | Autor | O que precisa ficar com as suas palavras? Tem uma explicação gravada ou um caso que costuma contar? | Voz, exemplos e nível de intervenção |
 | Gravação, se pedida | Em que situação você ensina melhor? O que costuma travar? Prefere tópicos ou fala escrita? Quem filma, com o quê e onde? | Tipo de roteiro, duração de tomadas e preparação |
 | Acervo e entrega | Quais imagens podemos usar? Há conteúdo obrigatório, prazo ou restrição de distribuição? | Seleção de recursos e escopo |
 
 Apresente duas ou três direções pertinentes descritas com o mesmo trecho real. Diga qual recomenda e por quê. Se houver renderização e a pessoa quiser comparar, mostre a mesma página em duas miniaturas. Quando ela delegar, escolha e prossiga. Se pediu escolher antes, espere a escolha. Registre em poucas linhas público, objetivo, mídia, identidade, estilo do instrutor, entregas e dúvidas técnicas. Reabra uma decisão somente se uma nova informação mudar seu efeito.
+
+Antes da produção, registre a escolha em uma frase. Aproveite os formatos já especificados e pergunte apenas o que falta definir. O formato do anexo identifica a entrada. Se a pessoa delegar a decisão, recomende a combinação adequada ao uso e prossiga. Informe já na entrevista se algum formato exigir uma alternativa por limitação da ferramenta. Na entrega, confira os arquivos contra o combinado.
