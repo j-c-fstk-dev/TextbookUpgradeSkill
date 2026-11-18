@@ -11,6 +11,14 @@ Para um pedido amplo como “melhore este material”, assuma a produção até 
 
 Para a apostila, aplique o [guia de direção visual e imagens](references/design.md) antes de diagramar. Para o curso, aplique o [guia de gravação](references/video.md). Antes de entregar qualquer peça, execute a [revisão e devolutiva](references/revisao.md). Guarde o briefing e as decisões junto ao projeto privado para retomadas.
 
+## Quando o PDF é composto por imagens
+
+Trabalhe em uma cópia privada. Teste a extração de texto por página e inspecione visualmente páginas representativas, incluindo uma página densa e outra com imagens ou legendas. Para páginas escaneadas use OCR no idioma do material, se disponível, ou transcrição visual dos trechos legíveis. Um DOCX, PPTX ou projeto original pode economizar trabalho, mas é opcional. Se faltar ferramenta de leitura, identifique o impedimento concreto e peça uma captura legível da página necessária.
+
+Ao receber um pedido de formatação com preservação de conteúdo, mantenha redação, ordem, tabelas, legendas e relações entre figuras e texto. Um PDF com camada OCR ainda precisa ser diagramado para mudar o layout. Reconstrua os blocos editáveis e compare o resultado com a imagem original, inclusive números, nomes técnicos, acentos e ordem de leitura. Registre trechos incertos com a página de origem para confirmação. Avalie cada figura no tamanho final. Peça uma imagem melhor apenas onde a resolução comprometer um detalhe necessário. Para videoaulas, avalie a utilidade do texto para o roteiro separadamente da qualidade das imagens para exibição.
+
+Use uma amostra para estimar a recuperação e fundamentar a entrevista inicial. Depois das escolhas, prossiga pelo escopo combinado, registrando quais páginas foram recuperadas, conferidas ou ainda precisam de um original melhor.
+
 ## Diagnosticar
 
 Associe cada achado a uma página, seção, imagem ou minuto de gravação. Para cada problema que afete a aprendizagem, explique onde o aluno trava e proponha uma mudança concreta. Distinga uma correção editorial de uma dúvida técnica. Conserve termos, exemplos e relatos próprios do professor. Quando houver conflito entre fontes, registre ambas e formule a pergunta que resolveria o conflito.
