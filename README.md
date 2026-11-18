@@ -21,3 +21,11 @@ Anexe seu material em um espaço privado da IA e disponibilize a pasta completa 
 > Melhore esta apostila para a minha turma. Examine os anexos, pergunte o que falta sobre o público, a marca e meu jeito de ensinar, e me ajude a escolher o layout. Entregue a apostila pronta para o uso combinado e um roteiro que eu consiga gravar. No final, reúna as decisões que ainda dependem de mim.
 
 Se preferir delegar as escolhas visuais, diga “escolha a direção mais adequada”. Se quiser decidir, peça duas opções aplicadas ao mesmo trecho. A capacidade de gerar e conferir PDF ou arquivo editável depende da IA utilizada.
+
+## Usar no Codex sem acesso à internet
+
+Baixe a [cópia completa em ZIP](https://github.com/j-c-fstk-dev/TextbookUpgradeSkill/archive/refs/heads/main.zip) em um navegador com acesso ao GitHub. Extraia a pasta `skills/textbook-upgrade` com todo o conteúdo e coloque-a como `textbook-upgrade/` na pasta privada da apostila que o Codex consegue ler.
+
+> Leia textbook-upgrade/SKILL.md e as referências locais indicadas. Examine a apostila desta pasta e conduza a entrevista inicial. Quero melhorar a diagramação preservando o conteúdo.
+
+Para PDFs escaneados, a skill orienta a testar a leitura e o reconhecimento de texto em páginas representativas antes de solicitar material adicional.
