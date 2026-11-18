@@ -55,3 +55,7 @@ Baixe a [cópia completa em ZIP](https://github.com/j-c-fstk-dev/TextbookUpgrade
 > Leia textbook-upgrade/SKILL.md e as referências locais indicadas. Examine a apostila desta pasta e conduza a entrevista inicial. Quero melhorar a diagramação preservando o conteúdo.
 
 Para PDFs escaneados, a skill orienta a testar a leitura e o reconhecimento de texto em páginas representativas antes de solicitar material adicional.
+
+## Licença
+
+Este projeto é distribuído sob a [GNU Affero General Public License, versão 3.0](LICENSE) (`AGPL-3.0-only`).
