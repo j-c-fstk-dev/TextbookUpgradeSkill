@@ -8,7 +8,7 @@ Devolva um resumo preenchido com o que já sabe. Faça uma rodada curta, agrupan
 |---|---|---|
 | Turma e objetivo | Quem vai usar, o que já sabe e o que precisa conseguir fazer sozinho? | Vocabulário, pré-requisitos e atividade |
 | Uso | O aluno vai imprimir, consultar no celular ou acompanhar uma aula? | Tamanho, orientação e espaço para escrever |
-| Arquivos de saída | Como você quer receber a apostila: PDF pronto para distribuir, Word editável ou os dois? Se pretende gravar aulas, quer também um roteiro separado? | Peças e formatos a produzir |
+| Arquivos de saída | Qual peça precisa agora: apostila, roteiro ou ambos? Em qual formato deve ser entregue? | Peças e formatos a produzir |
 | Identidade | Tem logo, cores, fontes, página de referência ou exemplo do que gosta? | Aplicação da marca e escolha entre direções visuais |
 | Autor | O que precisa ficar com as suas palavras? Tem uma explicação gravada ou um caso que costuma contar? | Voz, exemplos e nível de intervenção |
 | Gravação, se pedida | Em que situação você ensina melhor? O que costuma travar? Prefere tópicos ou fala escrita? Quem filma, com o quê e onde? | Tipo de roteiro, duração de tomadas e preparação |
