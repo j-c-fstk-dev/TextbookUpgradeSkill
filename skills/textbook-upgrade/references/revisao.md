@@ -12,6 +12,10 @@ Entregue o material do aluno e, separadamente, uma nota breve ao responsável. I
 |---|---|---|---|
 | Exemplo fictício: IMG-02, atividade 3 | Foto lateral mostrando a marcação inteira | Enviar foto horizontal em boa luz e confirmar autoria | Necessária para resolver o item 2 |
 
+Para uma prova paginada, identifique a página original e a página da prova. Descreva o elemento visível e confira sua posição nos dois arquivos antes de enviar a pergunta. Exemplo: “Foto superior central do original, primeira foto na página 4 da prova. O que é o material amarelado curvo e que detalhe o aluno deve observar?”
+
+Quando uma afirmação exigir consulta externa, registre a passagem, a fonte técnica consultada e a alteração proposta. Peça validação do responsável antes de incorporar acréscimos ou mudanças de conteúdo.
+
 Oriente a pessoa a abrir diretamente os locais indicados. Para cada dúvida técnica, cite a passagem, explique a ambiguidade e ofereça escolhas apenas se ambas tiverem base. Para cada imagem faltante, informe onde entra, como obtê-la, quem pode validar e como creditar. Se tudo estiver resolvido, proponha uma leitura focal da atividade e da cena mais exigente.
 
 Aceite correções em uma única resposta por ID, inclusive anexos. Na rodada seguinte, preserve decisões aprovadas, substitua pendências, atualize ficha, capítulo, gabarito e roteiro afetados e confira novamente o arquivo exportado. Só marque como pronto quando as pendências indispensáveis estiverem resolvidas; indique separadamente sugestões opcionais.
